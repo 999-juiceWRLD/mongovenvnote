@@ -1,0 +1,11 @@
+# in order to create an env
+python -m venv <folder_name>
+
+# to activate it
+source <folder_name>/bin/activate
+
+# to deactivate
+deactivate
+
+# if your virtual environment is in a directory called 'venv':
+rm -r venv
